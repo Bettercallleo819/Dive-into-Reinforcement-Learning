@@ -6,9 +6,9 @@ The code and lecture notes of RL.
 ### Fundamental
 
 - [ ] Intro
-- [ ] N-arm Bandit
-- [ ] Markov Decision Process
-- [ ] Dynamic Programming
+- [x] N-arm Bandit
+- [x] Markov Decision Process
+- [x] Dynamic Programming
 - [ ] Temporal Difference
 - [ ] Dyna-Q
 
